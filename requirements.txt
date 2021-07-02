@@ -1,0 +1,5 @@
+pytube
+youtube_dl
+colorama
+future
+os
