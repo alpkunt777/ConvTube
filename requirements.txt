@@ -1,4 +1,5 @@
 pytube
+pytube3
 youtube_dl
 colorama
 future
